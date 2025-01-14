@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\bin\Debug\net9.0\BasicPOO.exe
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\bin\Debug\net9.0\BasicPOO.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\bin\Debug\net9.0\BasicPOO.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\bin\Debug\net9.0\BasicPOO.dll
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\bin\Debug\net9.0\BasicPOO.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\BasicPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\BasicPOO.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\BasicPOO.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\BasicPOO.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\BasicPOO.dll
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\refint\BasicPOO.dll
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\BasicPOO.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\BasicPOO.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\BasicPOO\obj\Debug\net9.0\ref\BasicPOO.dll
